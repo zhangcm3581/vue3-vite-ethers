@@ -1,0 +1,9 @@
+{
+  "errorMsg": {
+    "user rejected transaction": "用戶取消操作",
+    "transfer amount exceeds balance": "餘額不足",
+    "burn amount exceeds balance": "餘額不足",
+    "insufficient allowance": "餘額不足",
+    "invalid address or ENS name": "無效"
+  }
+}
